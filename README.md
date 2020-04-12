@@ -22,6 +22,6 @@
 
 <b> 글 상세 및 댓글 </b>
 
-<img src="https://user-images.githubusercontent.com/37204852/79063024-11b4d580-7cda-11ea-84d2-1a02c6e52bea.png"/>
+<img src="https://user-images.githubusercontent.com/37204852/79063057-46289180-7cda-11ea-8918-7c92a183d547.png"/>
 
 
